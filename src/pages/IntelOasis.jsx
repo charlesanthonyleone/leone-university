@@ -100,7 +100,7 @@ export default function IntelOasis() {
             className="flex flex-col sm:flex-row gap-4"
           >
             <a
-              href="https://charlesanthonyleone.github.io/intel-oasis/"
+              href="https://inteloasis.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="group inline-flex items-center gap-3 px-8 py-4 gold-gradient-bg text-[#07070d] font-semibold text-[11px] tracking-[0.2em] uppercase rounded-full hover:shadow-[0_0_60px_rgba(200,164,90,0.25)] transition-all duration-500 shine"
@@ -342,7 +342,7 @@ export default function IntelOasis() {
               IntelOasis lives at its own address. Step in. The work is waiting.
             </p>
             <a
-              href="https://charlesanthonyleone.github.io/intel-oasis/"
+              href="https://inteloasis.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="group inline-flex items-center gap-3 px-10 py-5 gold-gradient-bg text-[#07070d] font-semibold text-[11px] tracking-[0.2em] uppercase rounded-full hover:shadow-[0_0_80px_rgba(200,164,90,0.25)] transition-all duration-500 shine"
